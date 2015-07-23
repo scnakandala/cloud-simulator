@@ -1,0 +1,2 @@
+vm_type,memory,cpu_count,io,price,migration_time,boot_time,max_users,availability
+small,0.5,1,1,2,5,3,200,-1
